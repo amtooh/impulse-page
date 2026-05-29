@@ -203,6 +203,23 @@ hr {
 	background: #2b5c79;
 }
 
+.github-button {
+	display: inline-block;
+	margin: 12px;
+	padding: 3px 12px 4px 12px;
+	color: #ffffff;
+	text-decoration: none;
+    font-size: 24px;
+
+	background: #4078c0;
+}
+
+.github-button:hover {
+	color: #ffffff;
+
+	background: #2d5486;
+}
+
 .support-button {
 	display: inline-block;
 	margin: 12px;
